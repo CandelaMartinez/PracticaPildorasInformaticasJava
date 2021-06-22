@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\lenguajes\JAVA\eclipse\PildorasInformaticas\.metadata\.plugins\org.eclipse.jdt.core
+1878056684.index
+1459305601.index
+1876863178.index
