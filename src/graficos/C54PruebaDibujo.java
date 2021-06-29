@@ -2,7 +2,7 @@ package graficos;
 import java.awt.*;
 import javax.swing.*;
 
-public class C4PruebaDibujo {
+public class C54PruebaDibujo {
 
 	public static void main(String[] args) {
 		//instancio marco, visible y que pasa cuando cierra marco

@@ -1,3 +1,4 @@
+
 package graficos;
 
 import java.awt.Color;
@@ -45,9 +46,9 @@ class PanelAccion extends JPanel{
 	public PanelAccion() {
 		//instancio la clase oyente para decir quien es la fuente del evento y poner el objeto oyente a la escucha
 		//creo el objeto ImageIcon para indicar donde esta la ruta del icono
-		AccionColor accionAmarillo= new AccionColor("amarillo",new ImageIcon("src/graficos/bolaAmarilla.gif"), Color.YELLOW);
-		AccionColor accionAzul= new AccionColor("azul",new ImageIcon("src/graficos/bolaAzul.png"), Color.BLUE);
-		AccionColor accionRojo= new AccionColor("rojo",new ImageIcon("src/graficos/bolaRoja.gif"), Color.RED);
+		AccionColor accionAmarillo= new AccionColor("amarillo",new ImageIcon("src/graficos/amar.png"), Color.YELLOW);
+		AccionColor accionAzul= new AccionColor("azul",new ImageIcon("src/graficos/azul.png"), Color.BLUE);
+		AccionColor accionRojo= new AccionColor("rojo",new ImageIcon("src/graficos/ro.png"), Color.RED);
 		
 		
 		
